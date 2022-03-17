@@ -11,3 +11,5 @@ Development on Functionality
 3. Upload Contacts
 
 4. Last seen update
+
+5.Status Update
