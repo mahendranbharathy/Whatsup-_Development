@@ -1,0 +1,13 @@
+WhatsUp Developement
+
+Author = Bharathy
+
+Development on Functionality
+
+1. Create a pofile page
+
+2. Create chat window
+
+3. Upload Contacts
+
+4. Last seen update
