@@ -13,3 +13,5 @@ Development on Functionality
 4. Last seen update
 
 5.Status Update
+
+6. Adding a Audio and Video call feature
