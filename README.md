@@ -1,2 +1,2 @@
 # Whatsup-_Development
-Creating a App application fro Chat
+Creating a App application for Chat
